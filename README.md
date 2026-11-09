@@ -1,5 +1,7 @@
 # NodyOS
 
+**One-shot by Fable 5.2 (Extra reasoning)**
+
 A small x86 operating system written from scratch, and **Flow**, a node-based
 3D VFX application that runs on it.
 
